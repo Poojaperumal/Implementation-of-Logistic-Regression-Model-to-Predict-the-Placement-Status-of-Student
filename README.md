@@ -30,14 +30,16 @@ Step 10: Evaluate the Model
 
 Step 11: Predict for a New Student
 
-```python
+
+### PROGRAM:
+
 /*
 Program to implement the the Logistic Regression Model to Predict the Placement Status of Student.
 Developed by: POOJA P
 RegisterNumber:  212224100041
 */
 
-
+```
 # 1. Import Required Libraries
 import pandas as pd
 from sklearn.preprocessing import LabelEncoder
